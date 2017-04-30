@@ -2,3 +2,8 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+
+nav {
+  font-family: Helvetica;
+  font-size: 18px;
+}
