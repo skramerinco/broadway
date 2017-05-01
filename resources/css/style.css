@@ -6,6 +6,7 @@ body {
 nav {
   font-family: Helvetica;
   font-size: 18px;
+  color: white;
 }
 
 #myHeader {
@@ -24,12 +25,12 @@ nav {
   color: white;
 }
 
-#navigation {
-  font-family: Helvatica;
-  font-size: 18px;
+a {
   color: white;
 }
 
-a {
-  color: white;
+#footer {
+  background-color: dimgray;
+  font-size: 11px;
+  text-align: left;
 }
