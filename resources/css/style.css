@@ -11,11 +11,14 @@ nav {
 
 #myHeader {
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
-
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
 }
 
 #designTitle {
     background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
 }
 
 #home {
